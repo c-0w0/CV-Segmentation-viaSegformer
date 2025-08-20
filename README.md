@@ -8,7 +8,7 @@ My first contact on SegFormer -> Semantic segmentation, Instance segmentation, P
 | Self Train Model     | N                     | N                     | N                     |
 
 ## Pending
-1. Semantic segmentation -> Didn't run on video because GPU limitation
+1. Semantic segmentation -> Didn't run on video due to GPU limitation.
 
 ## Screenshots
 ### Semantic Segmentation
